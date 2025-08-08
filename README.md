@@ -1,8 +1,6 @@
 ## Olá!! Eu sou o Bruno Máximo 
 
 <img src="https://github.com/BrunoMaximo03.png" width="150" style="border-radius: 50%;" />
-
-
 - 🔭 Faço projetos com Spring Boot
 - 🌱 Estou aprendendo um pouco de tudo (Full Stack)
 
